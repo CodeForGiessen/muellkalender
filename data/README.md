@@ -6,7 +6,8 @@ Werkzeuge
 
 ## Rohdatenbesorgung
 Die PDFs unter http://www.giessen.de/Umwelt_und_Verkehr/Abfallwirtschaft_und_Stra%C3%9Fenreinigung/Abfuhrkalender/ herunterladen.
-*Der Webmüllkalender ist leider nicht zu gebrauchen, weil er nur die allgemeinen Fälle abdeckt.*
+
+**Der Webmüllkalender ist leider nicht zu gebrauchen, weil er nur die allgemeinen Fälle abdeckt.**
 * Straßenverzeichnis
 * Müllkalender Montag
 * Müllkalender Dienstag
@@ -55,7 +56,9 @@ Aufwand: 1 Stunde pro Tag
 
 #### Mülltonnen (grau,blau,gelb,grün)
 **Achtung: Die grüne Tonne wird ab April wöchentlich und ab November wieder 2-wöchentlich geleert**
+
 **Buchstaben so hinschreiben, Zahlen mit Hochkomma einpacken (Damit sie nicht als Zahl interpretiert werden)**
+
 1. Das Muster erkennen 
 2. Eine Reihenfolge markieren (z.B Tag mit einer 1 (oder a ...) markieren und die Markierung wieder bis zur nächsten 1 ziehen **Aber Minus einen Tag**)
 3. Die Auswahl nun bis zum letzten Tag ziehen

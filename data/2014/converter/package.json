@@ -1,0 +1,15 @@
+{
+  "name": "converter-2014",
+  "version": "0.0.1",
+  "description": "Converter to convert csv to json",
+  "main": "lib/converter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vincent Elliott Wagner",
+  "license": "MIT",
+  "dependencies": {
+    "q": "latest",
+    "csv-parse": "0.0.6"
+  }
+}

@@ -104,7 +104,7 @@ function Converter(csvs){
       var element = {
         name: correctStreet(row[0]),
         day: dayToNumber(row[7]),
-        residual_waste_eco: row[1],
+        residual_waste_eco: row[1].toLowerCase(),
         residual_waste: parseInt(row[2]),
         paper_waste: parseInt(row[3]),
         plastic_waste: parseInt(row[4]),
